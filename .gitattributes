@@ -1,1 +1,5 @@
-ArchitectureExplorer/Content/** filter=lfs diff=lfs merge=lfs -text
+ArchitectureExplorer/Content/Developers filter=lfs diff=lfs merge=lfs -text
+ArchitectureExplorer/Content/Maps filter=lfs diff=lfs merge=lfs -text
+ArchitectureExplorer/Content/Pawns filter=lfs diff=lfs merge=lfs -text
+ArchitectureExplorer/Content/VRGameMode.uasset filter=lfs diff=lfs merge=lfs -text
+ArchitectureExplorer/Content/Collections filter=lfs diff=lfs merge=lfs -text
